@@ -20,9 +20,9 @@ Another option is to run a notebook in the IBM Cloud. Sign up for a [DSX Lite ac
 
 To install **Basemap** (needed for the maps in the first notebook) on DSX follow these steps as a temporary work-around:
 
-1. create a new notebook with a Python3 kernel
+1. Create a new notebook with a Python 3 kernel
 
-2. copy the below code into separate cells and run the notebook
+2. Copy the below code into separate cells and run the notebook
 
 3. Restart the kernel
 
