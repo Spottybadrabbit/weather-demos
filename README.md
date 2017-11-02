@@ -2,7 +2,7 @@
 
 This repository contains sample Python notebooks that show you what you can do with weather data. You can run these notebooks in a local notebook environment or on the Data Science Experience (DSX) in the IBM Cloud.
 
-All notebooks are tested with Python3.6, both locally and on DSX. Please let us know if you have any problems by creating an issue in this repository.  
+All notebooks are tested with Python 3, both locally and on DSX. Please let us know if you have any problems by creating an issue in this repository.  
 
 **Notebooks:**
 
